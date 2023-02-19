@@ -1,16 +1,24 @@
-### Hi there 👋
+👋 Привет, я Илья Ховрин
 
-<!--
-**Fiji-cosmo/Fiji-cosmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👀 Я занимаю python backen разработкой
 
-Here are some ideas to get you started:
+🌱 Сейчас я учусь в Яндекс Практикуме
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Мой стек технологий:
+---
+- Python 
+- Django
+- Django Rest Framework
+- Rest API
+- GitHub
+- OOP
+- SQLite3 
+- HTML
+- Docker
+- Ngnix
+
+📫 Мои контакты : 
+---
+- 📞 Tel: +7(937)-060-38-99
+- ⌨ Telegram: @Oblomov_ilya666
+- 📧 Email: kekfi1337@yandex.ru
