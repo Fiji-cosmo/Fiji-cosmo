@@ -6,7 +6,7 @@
 
 Мой стек технологий:
 ---
-- Python - Django - Django Rest  Framework - Rest API - GitHub  - SQLite3 - PostgeSQL - HTML - Docker - Ngnix
+- Python - Django - Django Rest  Framework - GitHub  - SQLite3 - PostgeSQL - HTML - Docker - Ngnix
 
 📫 Мои контакты : 
 ---
